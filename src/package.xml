@@ -3,6 +3,15 @@
     <version>39.0</version>
     <types>
         <members>AccCls1</members>
+        <members>AccCls2</members>
         <name>ApexClass</name>
+    </types>
+    <types>
+        <members>College__c.CollegeCourses__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>College__c</members>
+        <name>CustomObject</name>
     </types>
 </Package>
