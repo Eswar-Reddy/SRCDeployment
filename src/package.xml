@@ -4,10 +4,14 @@
     <types>
         <members>AccCls1</members>
         <members>AccCls2</members>
+        <members>AccCls3</members>
         <name>ApexClass</name>
     </types>
     <types>
         <members>College__c.CollegeCourses__c</members>
+        <members>College__c.CollegeOpt2__c</members>
+        <members>College__c.CollegeOpt3__c</members>
+        <members>College__c.CollegeOpt4__c</members>
         <name>CustomField</name>
     </types>
     <types>
